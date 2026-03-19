@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 7.1.0 - 2026-03-20
+
+* Added support for Laravel 13
+
 ## 7.0.0 - 2026-02-19
 
 * Upgraded `kreait/firebase-php` from 7.x to 8.x
