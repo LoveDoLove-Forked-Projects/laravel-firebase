@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+* Added support for `symfony/cache:^8.0.8`
+
 ## 7.1.0 - 2026-03-20
 
 * Added support for Laravel 13
